@@ -1,0 +1,18 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Akai
+Control Surface Model	MIDI Mix
+Map Version	1.4.6
+
+
+Scope	Propellerheads	Combinator
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+
+Map	Knob 1C		Rotary 1
+Map	Knob 2C		Rotary 2
+Map	Knob 3C		Rotary 3
+Map	Knob 4C		Rotary 4
+Map	Mute Button 1		Button 1
+Map	Mute Button 2		Button 2
+Map	Mute Button 3		Button 3
+Map	Mute Button 4		Button 4
