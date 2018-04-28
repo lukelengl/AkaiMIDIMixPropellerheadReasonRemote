@@ -1,4 +1,4 @@
-# Akai MIDI Max - Propellerhead Reason Remote Codec & Mapping
+# Akai MIDI Mix - Propellerhead Reason Remote Codec & Mapping
 
 These are **__UNOFFICIAL__** remote codec and mapping files for using Akai MIDI max control surface with Propellerhead Reason.
 
