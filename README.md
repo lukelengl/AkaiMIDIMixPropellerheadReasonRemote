@@ -16,6 +16,12 @@ For Mac, this is located at Macintosh HD/Library/Application Support/Propellerhe
 The following devices have been mapped:
 + Combinator
 
+## Global Mappings
+
++ Bank Left button will target the previous track in the sequencer.
++ Bank Right button will target the next track in the sequencer.
++ Solo button maps to tap tempo button in the sequencer.
+
 ## License
 
 This project is licensed under GNU GPLv3 - see the [LICENSE.md](LICENSE.md) file for details.
